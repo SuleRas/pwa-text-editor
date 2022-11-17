@@ -26,7 +26,7 @@ npm install in the terminal
 
 
 # Usage
-To use this app, simply open it up in the browser (with the deployed app link at the top of this readme) and then you are good to go. For offline use, the user can go to the link and hit the "install" button at the top left corner of the page.
+Use link app link on the readMe.
 
 # Contributing
 No contributors on this project.
